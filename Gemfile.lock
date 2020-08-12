@@ -249,11 +249,11 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   jquery-rails
   paperclip (~> 6.1)
-  pg
+  pg (= 0.17.1)
   puma (~> 4.1)
   rails (~> 6.0.2, >= 6.0.2.2)
   rails-simple-search
-  rails_12factor
+  rails_12factor (= 0.0.2)
   rails_bootstrap_navbar
   sass-rails (>= 6)
   selenium-webdriver
